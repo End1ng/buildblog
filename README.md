@@ -1,5 +1,6 @@
 # buildblog
-自己写的blog框架
+自己写的blog框架    
+已转hexo  
 # 基本配置
 \#        作者：End1ng blog:end1ng.wordpress.com  
 \#        --------------------------------  
