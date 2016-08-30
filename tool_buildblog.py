@@ -2,7 +2,7 @@
 import os
 import linecache
 
-#        作者：End1ng blog:end1ng.wordpress.com
+#        作者：End1ng
 #        --------------------------------
 # 自己的博客简单框架
 # 报错再来一次
